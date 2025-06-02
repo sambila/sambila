@@ -1,40 +1,52 @@
 # Hello, I'm Mário Santiago 👋
 
-> Developer & System Administrator passionate about creating efficient solutions
+> Linux Support Engineer | System Administrator | Odoo Implementation Specialist
 
-## 🔧 What I Do
+## 🚀 What I Do
 
-I specialize in creating practical automation scripts and web applications that solve real-world problems. My focus is on clean, functional code that gets the job done.
+I provide **remote support**, **system administration**, and specialize in **Linux environments** while implementing **Odoo ERP solutions** for businesses. My focus is on reliable infrastructure and seamless business process integration.
 
-### Current Projects
-- 🔄 **System Automation** - Collection of shell scripts for server administration
-- 💱 **Currency Tools** - Financial conversion utilities
-- ⏱️ **Time Management** - Productivity-focused applications
+### Professional Services
+- 🐧 **Linux Support Engineering** - Enterprise-level Linux system support and troubleshooting
+- 🛠️ **Remote System Administration** - Complete infrastructure management and maintenance
+- 📊 **Odoo Implementation** - Full ERP deployment, customization, and integration
+- 🔧 **IT Consulting** - Strategic technology guidance and optimization
 
-## 💻 Tech Stack
+## 💼 How I Work
+
+I collaborate closely with development teams rather than coding myself, focusing on:
+- System architecture and deployment
+- Infrastructure optimization
+- ERP implementation and configuration
+- Technical project coordination
+
+## 🌐 Find Me Online
+
+- 🌍 **Primary Website:** [sambila.net](https://www.sambila.net)
+- 🔗 **Tech Services:** [maola.tech](https://www.maola.tech)
+- 💼 **LinkedIn:** [sambilanet](https://www.linkedin.com/in/sambilanet/)
+
+## 🔧 Core Technologies
 
 ```text
-Languages    Python • JavaScript • Bash • HTML/CSS
-Databases    PostgreSQL • SQLite
-Tools        Git • Linux Administration • Server Management
-Focus        Automation • Web Development • System Scripts
+Operating Systems    Linux (RHEL, Ubuntu, CentOS, Debian)
+ERP Platform        Odoo (Implementation & Customization)
+Infrastructure      Docker, PostgreSQL, Nginx, Apache
+Tools               SSH, Git, System Monitoring, Backup Solutions
+Specialization      Remote Support, System Administration
 ```
 
-## 📈 GitHub Stats
+## 📚 About This GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sambila&show_icons=true&theme=default&hide_border=true)
+This GitHub profile serves as a **testing and collaboration space** where I work with developers on various projects. You'll find experimental scripts, configuration files, and proof-of-concept implementations that support my professional services.
 
-## 🎯 Featured Repositories
+## 🤝 Let's Connect
 
-[![Scripts](https://github-readme-stats.vercel.app/api/pin/?username=sambila&repo=scripts&theme=default&hide_border=true)](https://github.com/sambila/scripts)
-[![Currency Converter](https://github-readme-stats.vercel.app/api/pin/?username=sambila&repo=akz-currency-converter&theme=default&hide_border=true)](https://github.com/sambila/akz-currency-converter)
-
-## 🌍 Connect
-
-- 📧 Available for collaboration and consulting
-- 🔗 Open to discussing automation solutions
-- 💼 Interested in system administration projects
+- 📧 **Consulting:** Available for Linux infrastructure and Odoo projects
+- 🛠️ **Remote Support:** Comprehensive system administration services
+- 💡 **Collaboration:** Open to working with development teams
+- 🔗 **Partnership:** ERP implementation and IT consulting
 
 ---
 
-*Building solutions that matter, one script at a time.*
+*Bridging technology and business through reliable Linux infrastructure and efficient ERP solutions.*
